@@ -1,0 +1,29 @@
+.slide {
+    background-color: #000;
+    color: #FFF;
+}
+
+a,
+a:visited {
+    color: #FFF;
+}
+
+body {
+    background-color: #000;
+}
+
+.smbullets > ul > li {
+    text-align: left;
+}
+
+.large {
+    font-size: 120%;
+}
+
+[ref="slides/26"] {
+    margin-top: 0 !important;
+}
+
+#preso, .slide {
+    background-color: #000;
+}
